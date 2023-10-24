@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Autor
 
-Desenvolvido por [Seu Nome](URL_DO_SEU_PERFIL_GIT)
+Desenvolvido por [Ícaro Araújo](URL_DO_SEU_PERFIL_GIT)
 
 ## Licença
 
